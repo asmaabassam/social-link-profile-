@@ -26,7 +26,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 Solution URL: Add solution URL here
-Live Site URL: (https://asmaabassam.github.io/qr-code/)
+Live Site URL:[soccial-link-profilr} (https://asmaabassam.github.io/social-link-profile-/)
 
 ### Built with
 
