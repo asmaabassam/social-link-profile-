@@ -31,7 +31,7 @@ Live Site URL:[soccial-link-profilr} (https://asmaabassam.github.io/social-link-
 ### Built with
 
 -Html
-- CSS
+-css
 
 ### What I learned
 I learned how to create a personal card
